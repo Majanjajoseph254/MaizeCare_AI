@@ -1,0 +1,28 @@
+{
+    "en": {
+        "title": "🌽 MaizeCare: AI Diagnostic",
+        "lang_select": "Choose Language / Chagua Lugha",
+        "location_header": "📍 Your Location",
+        "detect_loc": "Detect My Location",
+        "county_fallback": "Or select your County manually:",
+        "upload_header": "📸 Disease Diagnosis",
+        "take_photo": "Take a Live Photo",
+        "upload_file": "Upload an Image",
+        "analyze_btn": "Analyze Crop",
+        "market_header": "🤝 Market & Millers",
+        "connect_miller": "Find Nearest Miller"
+    },
+    "sw": {
+        "title": "🌽 MaizeCare: Uchunguzi wa AI",
+        "lang_select": "Chagua Lugha / Choose Language",
+        "location_header": "📍 Mahali Ulipo",
+        "detect_loc": "Tambua Mahali Nilipo",
+        "county_fallback": "Au chagua Kaunti yako mwenyewe:",
+        "upload_header": "📸 Uchunguzi wa Magonjwa",
+        "take_photo": "Piga Picha Moja kwa Moja",
+        "upload_file": "Pakia Picha",
+        "analyze_btn": "Chunguza Mmea",
+        "market_header": "🤝 Soko na Wasaga Nafaka",
+        "connect_miller": "Tafuta Msaga Nafaka Aliye Karibu"
+    }
+}
